@@ -14,18 +14,20 @@ I am a Master’s student specializing in **IT Automation Systems** and **Truste
 ### 🤖 AI / Machine Learning
 * **[PWrRAG](https://github.com/wojciechbukala/PWrRAG)** – Production-grade **RAG** system for university documents using LangChain, HuggingFace, and Python.
 * **[PoliCircles](https://github.com/wojciechbukala/PoliCircles)** – Proof-of-Concept app built with **Google Antigravity** (Dec 2025), presented at **AWS Milan**.
+* **[LSTM based NN](https://colab.research.google.com/drive/1MvyR-bmcLgG0l_F10j1yOK3os-GmyXtJ?usp=sharing)** - *google colab notebook*, PyTorch deep neural network for sequence classification.
+* **[CNN for mediacal images classfication](https://drive.google.com/file/d/1AAJfI4cb8jdu-FHPKt9fiyW8PDtOez7-/view?usp=sharing)** - *google colab notebook*, PyTorch fine-tunned CNN.
 * **[SkiJumpingAnalysis](https://github.com/wojciechbukala/SkiJumpingAnalysis)** – **Computer Vision** application for dynamic sports environment analysis.
 * **[ML Fundamentals](https://github.com/wojciechbukala/Perceptron)** – From-scratch implementations: [Perceptron](https://github.com/wojciechbukala/Perceptron), [kNN](https://github.com/wojciechbukala/kNNClassifier), [OVR Classifiers](https://github.com/wojciechbukala/OVRClassifier), and [Ensemble Methods](https://github.com/wojciechbukala/BaggingBoosting).
 
 ### 🛠️ Systems & Data Engineering
 * **[Requirements Analysis & Design](https://github.com/wojciechbukala/RequirementsAnalysisAndDesign)** – Full SDLC documentation for an app for bikers (Politecnico di Milano).
 * **[Football Data Mining](https://github.com/wojciechbukala/FootballPlayersAnalysis)** – Exploratory Data Analysis (EDA) and mining on large-scale Kaggle dataset.
-* * **[Terraform AWS](https://github.com/wojciechbukala/TerraformAWS)** – Infrastructure as Code (IaC) for cloud-native applications.
+* **[Terraform AWS](https://github.com/wojciechbukala/TerraformAWS)** – Infrastructure as Code (IaC) for cloud-native applications.
 
 ### 💻 Low-Level & Algorithms
 * **[PriorityQueue](https://github.com/wojciechbukala/PriorityQueue)** – High-performance data structure implementation in **C++**.
 * **[MinMax TicTacToe](https://github.com/wojciechbukala/TicTacToe)** – Game engine featuring the MinMax algorithm with custom heuristics.
-* * **[WavProcessing](https://github.com/wojciechbukala/wav_processing)** – Digital Signal Processing in Python.
+* **[WavProcessing](https://github.com/wojciechbukala/wav_processing)** – Digital Signal Processing in Python.
 
 ---
 
@@ -33,7 +35,7 @@ I am a Master’s student specializing in **IT Automation Systems** and **Truste
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, C++, SQL |
-| **AI/ML** | PyTorch, HuggingFace, LangChain, OpenCV, Scikit-learn |
+| **AI/ML** | PyTorch, HuggingFace, LangChain, OpenCV, Scikit-learn, GPT API |
 | **Cloud/DevOps** | AWS, Git, Docker |
 | **Embedded/IoT** | Raspberry Pi, Edge AI, Signal Processing |
 
