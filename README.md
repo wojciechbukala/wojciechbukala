@@ -2,7 +2,7 @@
 
 I am a Master’s student specializing in **IT Automation Systems** and **Trusted Artificial Intelligence**. I bridge the gap between low-level embedded systems and high-level machine learning.
 
-* 🚀 **Interests:** Embedded Systems, Edge AI, Data Engineering, and Trusted ML.
+* 🚀 **Interests:** Embedded Systems, Edge AI, Data Engineering, and AI/ML.
 
 ---
 
